@@ -1,0 +1,51 @@
+body {
+	background: #A9A9A9;
+}
+
+h2,h1 {
+	text-align: center;
+}
+
+.collective {
+	border: solid transparent 1px;
+	width: 100%;
+	height: 85vh;
+	padding: 2px;
+}
+
+.common {
+	width: 31%;
+	height: 85vh;
+	background: #D3D3D3;
+	border: solid black 1px;
+	margin: 0px 10px;
+	display: inline-block;
+	float: left;
+	padding: 2px;
+	text-align: center;
+}
+
+.clearfix {
+	clear: both;
+}
+
+#input, #out {
+	width: 98%;
+	height: 73vh;
+	margin: 3px;
+	background: #FFFFFF;
+	text-align: left;
+}
+
+#text-to-find {
+	width: 70%;
+}
+
+.frs {
+	display: inline-block;
+	 margin: 20px;
+}
+
+b {
+	color: green;
+}
